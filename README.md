@@ -1,24 +1,26 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+API deste projeto, feito a partir do curso do OneBitCode.
 
-Things you may want to cover:
+##A ideia inicial
 
-* Ruby version
+Criar um APP inspirado no iFood usando Ruby On Rails como API e React como cliente Web
+O Planejamento
 
-* System dependencies
+#### Mockups
+1. Ferramenta: Pencil
+2. Material: https://drive.google.com/drive/folders/1Hlziu-vIbg476kLajGXrbOYpMFkUjmWp?usp=sharing
 
-* Configuration
+#### Endpoints
+1. Ferramenta: Postman
+2. Material: https://documenter.getpostman.com/view/5748264/S1EWQFdD
 
-* Database creation
+#### Modelo do banco de dados
+1. Ferramenta: DbDesigner
+2. Material: https://dbdesigner.page.link/b4CKva6sFUZjGXTb9
 
-* Database initialization
+#### Dependências
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+• Ruby 2.5
+• Ruby on Rails 5.2
+• SQLite 3
